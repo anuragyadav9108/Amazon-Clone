@@ -19,7 +19,3 @@ You can watch the site here
 - Store orders for logged in user
 - Responsive Design
 - Deploy the app live on Firebase
-
-## Author
-
-Özge Coşkun Gürsucu (codermother)
